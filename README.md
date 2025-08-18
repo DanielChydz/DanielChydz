@@ -8,4 +8,4 @@ Currently building a movie social media platform 🎬
 ![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,ts,html,css)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=github,visualstudio,vscode,postgresql,react,postman,linux,dotnet,docker,fastapi)
+![My Skills](https://skillicons.dev/icons?i=github,visualstudio,vscode,postgresql,react,postman,linux,docker,fastapi,dotnet)
